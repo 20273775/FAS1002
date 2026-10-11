@@ -1,0 +1,11 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Renviron
+
+# Positron
+.posit/
+
+# OS files
+.DS_Store
